@@ -35,5 +35,6 @@ This node is responsible for receiving user inputs from the Android app, transla
 
 3. Build the workspace:
 
-$ cd <your_ros_workspace>
-$ catkin build
+```bash
+  $ cd <your_ros_workspace>
+  $ catkin build
